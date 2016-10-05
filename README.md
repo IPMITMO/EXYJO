@@ -1,4 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/IPMITMO/EXYJO.png?label=ready&title=Ready)](https://waffle.io/IPMITMO/EXYJO)
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+
 # EXYJO
 
 [![Join the chat at https://gitter.im/IPMITMO/EXYJO](https://badges.gitter.im/IPMITMO/EXYJO.svg)](https://gitter.im/IPMITMO/EXYJO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
