@@ -7,6 +7,6 @@ URL: http://www.scimagojr.com/journalrank.php
 [All Scopus Journals](https://github.com/IPMITMO/EXYJO/blob/master/data/scimagojr.xlsx)    
 [Open Access Scopus Journals](https://github.com/IPMITMO/EXYJO/blob/master/data/scimagojr_OpenAccess.xlsx) 
 
-# Octopub for datasets stoarge
+# Octopub 
 
-Octopub: https://octopub.io/
+Octopub for datasets storage: https://octopub.io/
