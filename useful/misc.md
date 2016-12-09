@@ -10,3 +10,4 @@ Current Research Information Systems (CRIS): What are they and what do they do? 
 ## As We May Think
 
 As We May Think: https://en.wikipedia.org/wiki/As_We_May_Think
+Bradford's law: https://en.wikipedia.org/wiki/Bradford%27s_law
