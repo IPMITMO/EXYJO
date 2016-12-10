@@ -6,6 +6,9 @@ Comparison of research networking tools and research profiling systems: https://
      
 Current Research Information Systems (CRIS): What are they and what do they do? http://www.slideshare.net/UKSG/uksg-webinar-current-research-information-systems-cris-what-are-they-and-what-do-they-do
 
+## Как подобрать журнал для публикации статьи?
+http://www.library.spbu.ru/blog/?p=5226
+
 
 ## As We May Think
 
