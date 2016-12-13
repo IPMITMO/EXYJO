@@ -32,4 +32,7 @@ Getting Published: Tools and Help: Select a Journal http://libguides.mit.edu/c.p
 Choosing a Journal for Publication of an Article: Home http://guides.library.yale.edu/articlepublishing      
 Publish a Paper with IEEE https://www.ieee.org/publications_standards/publications/authors/paper.html      
 How to target a journal that’s right for your research http://www.scidev.net/global/publishing/practical-guide/target-journal-right-research-communicate-publish.html      
-Choose where to publish http://www2.le.ac.uk/library/for/researchers/publish/choose_where_to_publish      
+Choose where to publish http://www2.le.ac.uk/library/for/researchers/publish/choose_where_to_publish
+
+
+Journal Selector http://cofactorscience.com/journal-selector
