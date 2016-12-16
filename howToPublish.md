@@ -12,11 +12,11 @@ Choosing the Right Journal for Your Research: http://www.aje.com/en/arc/choosing
 How to choose journals for submitting your paper: http://www.editage.com/insights/how-to-choose-journals-for-submitting-your-paper       
 Questions to Ask Before Selecting a Journal: http://beckerguides.wustl.edu/authors/selectjournal     
 Information for journal article authors: https://www.springer.com/gp/authors-editors/journal-author     
-Tips from a journal editor: How to select a journal for your paper? https://youtu.be/-WBTL8PAv2o
+Tips from a journal editor: How to select a journal for your paper? https://youtu.be/-WBTL8PAv2o    
 How to Choose an Academic Journal for your Article ... and why you should choose one now! http://getalifephd.blogspot.ru/2011/09/how-to-choose-academic-journal-for-your.html     
 How to Select the Right Journal for Publication?: https://www.enago.com/academy/how-to-select-the-right-journal-for-publication/     
 Selecting An Open Access Journal for Publication: Be Cautious http://www.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-21-2016/No1-Jan-2016/Articles-Previous-Topics/Selecting-An-Open-Access-Journal.html     
-How do I select a journal (open access or otherwise) for publishing my research? http://researchguides.library.yorku.ca/selectoa     
+How do I select a journal (open access or otherwise) for publishing my research? http://researchguides.library.yorku.ca/selectoa      
 Selecting Publication Venues: Where to Publish? http://researchguides.uic.edu/journalselection     
 Getting Published:Tools and Help:Select a Journal: http://libguides.mit.edu/c.php?g=175985&p=1159236     
 Choosing a Journal for Publication of an Article: Home http://guides.library.yale.edu/articlepublishing      
